@@ -36,8 +36,14 @@ It lets you perform basic math operations while mocking your life choices.
    python mehculator.py
    ```
 
+## Testing
+1. Install pytest using ```pip install pytest```
+2. Type ```pytest``` into the terminal, and tests should run
+3. To see individual tests run, use the pytest with the option ```-v``` like so: ```pytest -v```
+
 ## Usage Example
 ![](/images/exampleRunthrough.png)
 
 ## Decision Flow Chart
 ![](/images/flowChart.png)
+
