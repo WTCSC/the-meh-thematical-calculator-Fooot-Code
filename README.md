@@ -38,7 +38,7 @@ It lets you perform basic math operations while mocking your life choices.
 
 ## Testing
 1. Install pytest using ```pip install pytest```
-2. Type ```pytest``` into the terminal, and tests should run
+2. Type ```pytest``` into the terminal in the same working directory as calculator.py, and tests should run
 3. To see individual tests run, use the pytest with the option ```-v``` like so: ```pytest -v```
 
 ## Usage Example
